@@ -6,6 +6,8 @@ target 'Twitter' do
   # Pods for Twitter
   use_frameworks!
   pod 'AFNetworking'
-  pod 'BDBOAuth1Manager'
+  
   pod 'AlamofireImage'
+
+  pod 'BDBOAuth1Manager'
 end
